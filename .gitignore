@@ -1,0 +1,12 @@
+# Compilation artifacts
+*.o
+*.a
+*.out
+a.out
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
